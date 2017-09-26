@@ -1,0 +1,26 @@
+{
+    "args" : [
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/3.4",
+        "-Ic:/Rtools/mingw_64/x86_64-w64-mingw32/include",
+        "-Ic:/Rtools/mingw_64/x86_64-w64-mingw32/include/c++",
+        "-Ic:/Rtools/mingw_64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32",
+        "-IC:/Users/Kevin/Documents/R/win-library/3.4/StanHeaders/include",
+        "-IC:/Users/Kevin/Documents/R/win-library/3.4/rstan/include",
+        "-IC:/Users/Kevin/Documents/R/win-library/3.4/BH/include",
+        "-IC:/Users/Kevin/Documents/R/win-library/3.4/Rcpp/include",
+        "-IC:/Users/Kevin/Documents/R/win-library/3.4/RcppEigen/include",
+        "-std=gnu++11",
+        "-IC:/PROGRA~1/R/R-34~1.1/include",
+        "-I`",
+        "-I`",
+        "-DBOOST_RESULT_OF_USE_TR1",
+        "-DBOOST_NO_DECLTYPE",
+        "-DBOOST_DISABLE_ASSERTS",
+        "-DEIGEN_NO_DEBUG",
+        "-DBOOST_NO_CXX11_RVALUE_REFERENCES",
+        "-Id:/Compiler/gcc-4.9.3/local330/include"
+    ],
+    "hash" : "150636398615063619741506361974",
+    "is_cpp" : true,
+    "pch" : "Rcpp"
+}

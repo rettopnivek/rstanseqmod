@@ -1,0 +1,119 @@
+[
+    {
+        "definitions" : [
+        ],
+        "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/Modules.cpp",
+        "file_last_write" : 1506363994
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 26,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 6,
+                "line" : 27,
+                "name" : "prog_reader__",
+                "parent_name" : "",
+                "usr" : "c:@N@model_test_namespace@F@prog_reader__#"
+            },
+            {
+                "column" : 7,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 2,
+                "line" : 34,
+                "name" : "model_test",
+                "parent_name" : "",
+                "usr" : "c:@N@model_test_namespace@C@model_test"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 52,
+                "name" : "ctor_body(int &, unsigned int, std::ostream *)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@ctor_body#&I#i#*$@N@std@C@basic_ostream>#C#$@N@std@S@char_traits>#C#"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 108,
+                "name" : "transform_inits(const int &, std::vector<int> &, std::vector<double> &, std::ostream *)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@transform_inits#&1I#&$@N@std@C@vector>#I#$@N@std@C@allocator>#I#&$@N@std@C@vector>#d#$@N@std@C@allocator>#d#*$@N@std@C@basic_ostream>#C#$@N@std@S@char_traits>#C#1"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 136,
+                "name" : "transform_inits(const int &, int)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@transform_inits#&1I#I#1"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 213,
+                "name" : "get_param_names(std::vector<std::string> &)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@get_param_names#&$@N@std@C@vector>#$@N@std@C@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@C@allocator>#C#$@N@std@C@allocator>#S2_#1"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 219,
+                "name" : "get_dims(std::vector<std::vector<size_t> > &)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@get_dims#&$@N@std@C@vector>#$@N@std@C@vector>#k#$@N@std@C@allocator>#k#$@N@std@C@allocator>#S2_#1"
+            },
+            {
+                "column" : 24,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 298,
+                "name" : "model_name",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@model_name#S"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 303,
+                "name" : "constrained_param_names(std::vector<std::string> &, bool, bool)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@constrained_param_names#&$@N@std@C@vector>#$@N@std@C@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@C@allocator>#C#$@N@std@C@allocator>#S2_#b#b#1"
+            },
+            {
+                "column" : 10,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+                "kind" : 7,
+                "line" : 317,
+                "name" : "unconstrained_param_names(std::vector<std::string> &, bool, bool)",
+                "parent_name" : "model_test",
+                "usr" : "c:@N@model_test_namespace@C@model_test@F@unconstrained_param_names#&$@N@std@C@vector>#$@N@std@C@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@C@allocator>#C#$@N@std@C@allocator>#S2_#b#b#1"
+            }
+        ],
+        "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/include/models.hpp",
+        "file_last_write" : 1506363994
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 24,
+                "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/init.cpp",
+                "kind" : 6,
+                "line" : 16,
+                "name" : "R_init_rstanseqmod(DllInfo *)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_init_rstanseqmod#*$@S@_DllInfo#"
+            }
+        ],
+        "file" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/src/init.cpp",
+        "file_last_write" : 1506361974
+    }
+]

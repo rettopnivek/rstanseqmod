@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Lookup - 01\n#' Test\n#'\n#' Forthcoming.\n#'\n#' @useDynLib rstanseqmod, .registration = TRUE\n#' @export\ntest_code = function( y, N, ... ) {\n  \n  standat = list( N = N, y = y )\n  \n  stanfit = stanmodels$test\n  fit = sampling( stanfit, data = standat, ... )\n  \n  return( fit )\n}",
+    "created" : 1506362379687.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3963503221",
+    "id" : "1B2A4C18",
+    "lastKnownWriteTime" : 1506363654,
+    "last_content_update" : 1506363652252,
+    "path" : "F:/Stuff/Kevin's Stuff/Postdoc/R packages/rstanseqmod/R/test.R",
+    "project_path" : "R/test.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
